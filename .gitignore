@@ -39,6 +39,7 @@ frontend/dist/
 backend/*.db
 backend/uploads/
 backend/ml/saved_models/
+backend/ml_models/
 
 # IDEs
 .vscode/
